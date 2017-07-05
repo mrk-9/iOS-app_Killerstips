@@ -1,0 +1,15 @@
+//
+//  KTTips.m
+//  
+//
+//  Created by Hua Wan on 3/8/2016.
+//
+//
+
+#import "KTTips.h"
+
+@implementation KTTips
+
+// Insert code here to add functionality to your managed object subclass
+
+@end
